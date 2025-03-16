@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="300" alt="Django Logo">
+  <a href="https://docs.djangoproject.com/en/stable/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7gi-Vovymw3486xkL9Oz9jBzCXEVyvPxIA&s#gh-light-mode-only" width="300" alt="Django Logo">
+    <img src="https://codereview.doctor/django-logo.png#gh-dark-mode-only" width="300" alt="Django Logo">
+  </a>
 </p>
+
 
 # 🚀 Django Learning Repository
 
